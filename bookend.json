@@ -1,0 +1,8 @@
+{
+	"bookendVersion": "v1.0",
+	"shareProviders": [
+		"system",
+		"twitter"
+	],
+	"components": []
+}

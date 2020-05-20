@@ -1,0 +1,16 @@
+{
+	"name": "m1guelpf/amp-book",
+	"description": "A PHP script to generate cool book experiences using AMP Stories.",
+	"authors": [{
+		"name": "Miguel Piedrafita",
+		"email": "soy@miguelpiedrafita.com",
+		"role": "Developer",
+		"homepage": "https://miguelpiedrafita.com"
+	}],
+    "require": {
+        "illuminate/view": "^7.12",
+        "illuminate/events": "^7.12",
+        "illuminate/filesystem": "^7.12",
+        "symfony/var-dumper": "^5.0"
+    }
+}
